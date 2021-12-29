@@ -1,0 +1,160 @@
+<mxfile host="app.diagrams.net" modified="2021-12-29T07:19:43.235Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="gr-lgc2fP8LSBCxYJaz6" version="15.7.2" type="github">
+  <diagram name="Page-1" id="2cc2dc42-3aac-f2a9-1cec-7a8b7cbee084">
+    <mxGraphModel dx="2062" dy="1098" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="SbFwo_EoLKmtSrP9Hcc2-1" value="" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.browserWindow;rSize=0;strokeColor=#666666;mainText=,;recursiveResize=0;rounded=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12" parent="1" vertex="1">
+          <mxGeometry x="30" y="20" width="1150" height="1630" as="geometry" />
+        </mxCell>
+        <mxCell id="SbFwo_EoLKmtSrP9Hcc2-2" value="性能测试" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.anchor;fontSize=17;fontColor=#666666;align=left;" parent="SbFwo_EoLKmtSrP9Hcc2-1" vertex="1">
+          <mxGeometry x="60" y="12" width="110" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="SbFwo_EoLKmtSrP9Hcc2-3" value="https://www.default.com" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.anchor;rSize=0;fontSize=17;fontColor=#666666;align=left;" parent="SbFwo_EoLKmtSrP9Hcc2-1" vertex="1">
+          <mxGeometry x="130" y="60" width="250" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="SbFwo_EoLKmtSrP9Hcc2-4" value="w02性能测试统计" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=30;fontFamily=Verdana" parent="SbFwo_EoLKmtSrP9Hcc2-1" vertex="1">
+          <mxGeometry x="30" y="140" width="340" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="SbFwo_EoLKmtSrP9Hcc2-5" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.markup.line;strokeColor=#999999;rounded=0;labelBackgroundColor=none;fillColor=#ffffff;fontFamily=Verdana;fontSize=12;fontColor=#000000;" parent="SbFwo_EoLKmtSrP9Hcc2-1" vertex="1">
+          <mxGeometry y="310" width="1050" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="SbFwo_EoLKmtSrP9Hcc2-6" value="FPS" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=15;fontFamily=Verdana" parent="SbFwo_EoLKmtSrP9Hcc2-1" vertex="1">
+          <mxGeometry x="20" y="330" width="250" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="SbFwo_EoLKmtSrP9Hcc2-8" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.markup.line;strokeColor=#999999;rounded=0;labelBackgroundColor=none;fillColor=#ffffff;fontFamily=Verdana;fontSize=12;fontColor=#000000;" parent="SbFwo_EoLKmtSrP9Hcc2-1" vertex="1">
+          <mxGeometry y="580" width="1050" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="SbFwo_EoLKmtSrP9Hcc2-14" value="选择时间跨度" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.comboBox;strokeColor=#999999;fillColor=#ddeeff;align=left;fillColor2=#aaddff;mainText=;fontColor=#666666;fontSize=17;spacingLeft=3;" parent="SbFwo_EoLKmtSrP9Hcc2-1" vertex="1">
+          <mxGeometry x="20" y="360" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SbFwo_EoLKmtSrP9Hcc2-23" value="week1" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=15;fontFamily=Verdana" parent="SbFwo_EoLKmtSrP9Hcc2-1" vertex="1">
+          <mxGeometry x="500" y="550" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SbFwo_EoLKmtSrP9Hcc2-24" value="week2" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=15;fontFamily=Verdana" parent="SbFwo_EoLKmtSrP9Hcc2-1" vertex="1">
+          <mxGeometry x="600" y="550" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SbFwo_EoLKmtSrP9Hcc2-25" value="week3" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=15;fontFamily=Verdana" parent="SbFwo_EoLKmtSrP9Hcc2-1" vertex="1">
+          <mxGeometry x="710" y="550" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SbFwo_EoLKmtSrP9Hcc2-26" value="横坐标时间，纵坐标帧率&lt;br&gt;&lt;br&gt;折线图需要展示平均值、&lt;br&gt;中位数、最大值、最小值其中一个&lt;br&gt;，手动选择" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=15;fontFamily=Verdana" parent="SbFwo_EoLKmtSrP9Hcc2-1" vertex="1">
+          <mxGeometry x="210" y="360" width="240" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="SbFwo_EoLKmtSrP9Hcc2-63" value="选择手机" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.comboBox;strokeColor=#999999;fillColor=#ddeeff;align=left;fillColor2=#aaddff;mainText=;fontColor=#666666;fontSize=17;spacingLeft=3;" parent="SbFwo_EoLKmtSrP9Hcc2-1" vertex="1">
+          <mxGeometry y="290" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SbFwo_EoLKmtSrP9Hcc2-64" value="选择手机可以选择某一个类型的手机，或者选择某一档位(低、中、高)的手机，也可以选择all&lt;br&gt;选择手机以后，下边所有的统计都基于已选择的手机进行筛选" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=15;fontFamily=Verdana" parent="SbFwo_EoLKmtSrP9Hcc2-1" vertex="1">
+          <mxGeometry x="-5" y="230" width="690" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SbFwo_EoLKmtSrP9Hcc2-65" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.graphics.lineChart;strokeColor=none;strokeColor2=#666666;strokeColor3=#008cff;strokeColor4=#dddddd;" parent="SbFwo_EoLKmtSrP9Hcc2-1" vertex="1">
+          <mxGeometry x="470" y="340" width="400" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="SbFwo_EoLKmtSrP9Hcc2-67" value="选择脚本" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.comboBox;strokeColor=#999999;fillColor=#ddeeff;align=left;fillColor2=#aaddff;mainText=;fontColor=#666666;fontSize=17;spacingLeft=3;" parent="SbFwo_EoLKmtSrP9Hcc2-1" vertex="1">
+          <mxGeometry x="150" y="290" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SbFwo_EoLKmtSrP9Hcc2-68" value="选择标签" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.comboBox;strokeColor=#999999;fillColor=#ddeeff;align=left;fillColor2=#aaddff;mainText=;fontColor=#666666;fontSize=17;spacingLeft=3;" parent="SbFwo_EoLKmtSrP9Hcc2-1" vertex="1">
+          <mxGeometry x="300" y="290" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SbFwo_EoLKmtSrP9Hcc2-69" value="脚本和标签只能选择其中一个，选择以后下边所有统计都基于所选的脚本或标签" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=15;fontFamily=Verdana" parent="SbFwo_EoLKmtSrP9Hcc2-1" vertex="1">
+          <mxGeometry x="460" y="280" width="690" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SbFwo_EoLKmtSrP9Hcc2-71" value="内存" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=15;fontFamily=Verdana" parent="SbFwo_EoLKmtSrP9Hcc2-1" vertex="1">
+          <mxGeometry x="30" y="590" width="250" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="SbFwo_EoLKmtSrP9Hcc2-72" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.markup.line;strokeColor=#999999;rounded=0;labelBackgroundColor=none;fillColor=#ffffff;fontFamily=Verdana;fontSize=12;fontColor=#000000;" parent="SbFwo_EoLKmtSrP9Hcc2-1" vertex="1">
+          <mxGeometry x="10" y="840" width="1050" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="SbFwo_EoLKmtSrP9Hcc2-73" value="选择时间跨度" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.comboBox;strokeColor=#999999;fillColor=#ddeeff;align=left;fillColor2=#aaddff;mainText=;fontColor=#666666;fontSize=17;spacingLeft=3;" parent="SbFwo_EoLKmtSrP9Hcc2-1" vertex="1">
+          <mxGeometry x="30" y="620" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SbFwo_EoLKmtSrP9Hcc2-74" value="week1" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=15;fontFamily=Verdana" parent="SbFwo_EoLKmtSrP9Hcc2-1" vertex="1">
+          <mxGeometry x="510" y="810" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SbFwo_EoLKmtSrP9Hcc2-75" value="week2" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=15;fontFamily=Verdana" parent="SbFwo_EoLKmtSrP9Hcc2-1" vertex="1">
+          <mxGeometry x="610" y="810" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SbFwo_EoLKmtSrP9Hcc2-76" value="week3" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=15;fontFamily=Verdana" parent="SbFwo_EoLKmtSrP9Hcc2-1" vertex="1">
+          <mxGeometry x="720" y="810" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SbFwo_EoLKmtSrP9Hcc2-77" value="横坐标时间，纵坐标内存&lt;br&gt;&lt;br&gt;折线图需要展示平均值、&lt;br&gt;中位数、最大值、最小值其中一个&lt;br&gt;，手动选择" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=15;fontFamily=Verdana" parent="SbFwo_EoLKmtSrP9Hcc2-1" vertex="1">
+          <mxGeometry x="220" y="620" width="240" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="SbFwo_EoLKmtSrP9Hcc2-78" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.graphics.lineChart;strokeColor=none;strokeColor2=#666666;strokeColor3=#008cff;strokeColor4=#dddddd;" parent="SbFwo_EoLKmtSrP9Hcc2-1" vertex="1">
+          <mxGeometry x="480" y="600" width="400" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="SbFwo_EoLKmtSrP9Hcc2-79" value="&lt;div&gt;CPU Usage(Normalized)&lt;/div&gt;" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=15;fontFamily=Verdana" parent="SbFwo_EoLKmtSrP9Hcc2-1" vertex="1">
+          <mxGeometry x="25" y="850" width="250" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="SbFwo_EoLKmtSrP9Hcc2-80" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.markup.line;strokeColor=#999999;rounded=0;labelBackgroundColor=none;fillColor=#ffffff;fontFamily=Verdana;fontSize=12;fontColor=#000000;" parent="SbFwo_EoLKmtSrP9Hcc2-1" vertex="1">
+          <mxGeometry x="5" y="1100" width="1050" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="SbFwo_EoLKmtSrP9Hcc2-81" value="选择时间跨度" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.comboBox;strokeColor=#999999;fillColor=#ddeeff;align=left;fillColor2=#aaddff;mainText=;fontColor=#666666;fontSize=17;spacingLeft=3;" parent="SbFwo_EoLKmtSrP9Hcc2-1" vertex="1">
+          <mxGeometry x="25" y="880" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SbFwo_EoLKmtSrP9Hcc2-82" value="week1" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=15;fontFamily=Verdana" parent="SbFwo_EoLKmtSrP9Hcc2-1" vertex="1">
+          <mxGeometry x="505" y="1070" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SbFwo_EoLKmtSrP9Hcc2-83" value="week2" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=15;fontFamily=Verdana" parent="SbFwo_EoLKmtSrP9Hcc2-1" vertex="1">
+          <mxGeometry x="605" y="1070" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SbFwo_EoLKmtSrP9Hcc2-84" value="week3" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=15;fontFamily=Verdana" parent="SbFwo_EoLKmtSrP9Hcc2-1" vertex="1">
+          <mxGeometry x="715" y="1070" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SbFwo_EoLKmtSrP9Hcc2-85" value="横坐标时间，纵坐标cpu&lt;br&gt;&lt;br&gt;折线图需要展示平均值、&lt;br&gt;中位数、最大值、最小值其中一个&lt;br&gt;，手动选择" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=15;fontFamily=Verdana" parent="SbFwo_EoLKmtSrP9Hcc2-1" vertex="1">
+          <mxGeometry x="215" y="880" width="240" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="SbFwo_EoLKmtSrP9Hcc2-86" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.graphics.lineChart;strokeColor=none;strokeColor2=#666666;strokeColor3=#008cff;strokeColor4=#dddddd;" parent="SbFwo_EoLKmtSrP9Hcc2-1" vertex="1">
+          <mxGeometry x="475" y="860" width="400" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="SbFwo_EoLKmtSrP9Hcc2-95" value="CPU" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=15;fontFamily=Verdana" parent="SbFwo_EoLKmtSrP9Hcc2-1" vertex="1">
+          <mxGeometry x="15" y="1110" width="250" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="SbFwo_EoLKmtSrP9Hcc2-96" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.markup.line;strokeColor=#999999;rounded=0;labelBackgroundColor=none;fillColor=#ffffff;fontFamily=Verdana;fontSize=12;fontColor=#000000;" parent="SbFwo_EoLKmtSrP9Hcc2-1" vertex="1">
+          <mxGeometry x="-5" y="1360" width="1050" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="SbFwo_EoLKmtSrP9Hcc2-97" value="选择时间跨度" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.comboBox;strokeColor=#999999;fillColor=#ddeeff;align=left;fillColor2=#aaddff;mainText=;fontColor=#666666;fontSize=17;spacingLeft=3;" parent="SbFwo_EoLKmtSrP9Hcc2-1" vertex="1">
+          <mxGeometry x="15" y="1140" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SbFwo_EoLKmtSrP9Hcc2-98" value="week1" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=15;fontFamily=Verdana" parent="SbFwo_EoLKmtSrP9Hcc2-1" vertex="1">
+          <mxGeometry x="495" y="1330" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SbFwo_EoLKmtSrP9Hcc2-99" value="week2" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=15;fontFamily=Verdana" parent="SbFwo_EoLKmtSrP9Hcc2-1" vertex="1">
+          <mxGeometry x="595" y="1330" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SbFwo_EoLKmtSrP9Hcc2-100" value="week3" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=15;fontFamily=Verdana" parent="SbFwo_EoLKmtSrP9Hcc2-1" vertex="1">
+          <mxGeometry x="705" y="1330" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SbFwo_EoLKmtSrP9Hcc2-101" value="横坐标时间，纵坐标cpu&lt;br&gt;&lt;br&gt;折线图需要展示平均值、&lt;br&gt;中位数、最大值、最小值其中一个&lt;br&gt;，手动选择" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=15;fontFamily=Verdana" parent="SbFwo_EoLKmtSrP9Hcc2-1" vertex="1">
+          <mxGeometry x="205" y="1140" width="240" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="SbFwo_EoLKmtSrP9Hcc2-102" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.graphics.lineChart;strokeColor=none;strokeColor2=#666666;strokeColor3=#008cff;strokeColor4=#dddddd;" parent="SbFwo_EoLKmtSrP9Hcc2-1" vertex="1">
+          <mxGeometry x="465" y="1120" width="400" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="SbFwo_EoLKmtSrP9Hcc2-103" value="流量" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=15;fontFamily=Verdana" parent="SbFwo_EoLKmtSrP9Hcc2-1" vertex="1">
+          <mxGeometry x="30" y="1370" width="250" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="SbFwo_EoLKmtSrP9Hcc2-104" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.markup.line;strokeColor=#999999;rounded=0;labelBackgroundColor=none;fillColor=#ffffff;fontFamily=Verdana;fontSize=12;fontColor=#000000;" parent="SbFwo_EoLKmtSrP9Hcc2-1" vertex="1">
+          <mxGeometry x="10" y="1620" width="1050" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="SbFwo_EoLKmtSrP9Hcc2-105" value="选择时间跨度" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.comboBox;strokeColor=#999999;fillColor=#ddeeff;align=left;fillColor2=#aaddff;mainText=;fontColor=#666666;fontSize=17;spacingLeft=3;" parent="SbFwo_EoLKmtSrP9Hcc2-1" vertex="1">
+          <mxGeometry x="30" y="1400" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SbFwo_EoLKmtSrP9Hcc2-106" value="week1" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=15;fontFamily=Verdana" parent="SbFwo_EoLKmtSrP9Hcc2-1" vertex="1">
+          <mxGeometry x="510" y="1590" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SbFwo_EoLKmtSrP9Hcc2-107" value="week2" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=15;fontFamily=Verdana" parent="SbFwo_EoLKmtSrP9Hcc2-1" vertex="1">
+          <mxGeometry x="610" y="1590" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SbFwo_EoLKmtSrP9Hcc2-108" value="week3" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=15;fontFamily=Verdana" parent="SbFwo_EoLKmtSrP9Hcc2-1" vertex="1">
+          <mxGeometry x="720" y="1590" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SbFwo_EoLKmtSrP9Hcc2-109" value="横坐标时间，纵坐标流量&lt;br&gt;&lt;br&gt;折线图需要展示平均值、&lt;br&gt;中位数、最大值、最小值其中一个&lt;br&gt;，手动选择" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=15;fontFamily=Verdana" parent="SbFwo_EoLKmtSrP9Hcc2-1" vertex="1">
+          <mxGeometry x="220" y="1400" width="240" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="SbFwo_EoLKmtSrP9Hcc2-110" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.graphics.lineChart;strokeColor=none;strokeColor2=#666666;strokeColor3=#008cff;strokeColor4=#dddddd;" parent="SbFwo_EoLKmtSrP9Hcc2-1" vertex="1">
+          <mxGeometry x="480" y="1380" width="400" height="200" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
